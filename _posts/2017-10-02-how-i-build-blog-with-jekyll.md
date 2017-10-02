@@ -3,6 +3,7 @@ layout: post
 title: "记录电脑盲用Jekyll搭建博客过程"
 date: 2017-10-02 13:05:00 +0100
 description: 自建博客的过程
+tags: [tech, Jekyll]
 ---
 最简单的方法就是fork别人的GitHub仓库，删除'_post'内容，直接更新。
 - 好处：方便操作，几乎不需要了解Jekyll工作原理。教程多，跟着操作无需动脑
