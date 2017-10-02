@@ -1,14 +1,14 @@
-title: TEST
-description: test
-url: alissli.github.io
-permalink: /:title /github-pages
+title: 
+description: Yulian's Blog
+url: xiayulian.com
+permalink: /:title /html
 
-author: alissli
+author: 夏雨莲
 author-img: 
-about-author: 育儿育己
+about-author: 天淡云闲，列长空数行新雁
 facebook: 
-github: alissli
-email: 45923432@qq.com
+github: Yulianxia
+email: ylxia.de@gmail.com
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
@@ -23,4 +23,3 @@ plugins:
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-theme: jekyll-theme-cayman
