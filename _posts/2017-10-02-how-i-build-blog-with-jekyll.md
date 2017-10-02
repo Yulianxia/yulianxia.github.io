@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "记录电脑盲用Jekyll搭建博客过程"
+title: "电脑盲用Jekyll搭建博客过程"
 date: 2017-10-02 13:05:00 +0100
 description: 自建博客的过程
 tags: [tech, Jekyll]
@@ -15,16 +15,22 @@ tags: [tech, Jekyll]
 
 下面是步骤
 1. godaddy.com 申请域名。（根据教程即可，不再赘述）
-2. 用国内服务器解析域名。几个教程里都推荐了DNSpod，我也用了这个服务商。但godaddy的页面变化很大，DNS教程页面已经过时很久，小白很难通过教程找到页面上的按钮。  
+2. 用国内服务器解析域名。几个教程里都推荐了DNSpod，我也用了这个服务商。但godaddy的页面变化很大，DNS教程页面已经过时很久，小白很难通过教程找到页面上的按钮。   
 （此处配图……………）
-3. 解析好后，回到GitHub，新建或fork一个仓库，在仓库页面中上方横条里找到setting按钮，改为 ‘username.github.io’， 接着往下拉动页面，修改GitHub pages。  
+3. 解析好后，回到GitHub，新建或fork一个仓库，在仓库页面中上方横条里找到setting按钮，改为 ‘username.github.io’。  
+  接着往下拉动页面，修改GitHub pages。   
+  不要点GitHub pages 里面包含的 choose a theme       
 （注意：GitHub pages 不是一个页面，而是setting页面里的一个功能。此处有GitHub pages截图）
 4. GitHub pages 设置成域名（xiayulian.com）后，就可以专心设置Jekyll博客模版了。有几个重要文件如下
 
   * CNAME：       内容为域名，没有就不填
   * _config.yml  博客首页基本信息设置都在这个文件里，需要修改成自己的信息。
   * index.html   我还不知道这个文件的作用，但它很重要。如果什么都不知道，就完整copy原来模版里的内容不要乱改。
-  * _post 里更新文章即可。似乎这个文件里还能加文件夹用来分类，但还没找到方法。
+  * _post 里更新文章即可。似乎这个文件里还能加文件夹用来分类，**但还没找到方法。**
+5. 每个模版的参数相差较大，列出步骤似乎并没有参考价值。重要的还是学会看基本代码，或者放宽心使用现有功能。
+6. 希望能在这个网页上添加“分类”和“目录”功能，现在毫无头绪。
+
+
 
 **changelog**  
 20171002  creat
