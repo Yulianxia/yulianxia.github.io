@@ -1,7 +1,7 @@
 title: 
 description: Yulian's Blog
 url: xiayulian.com
-permalink: /:title /html
+permalink: /:title.html
 
 author: 夏雨莲
 author-img: 
