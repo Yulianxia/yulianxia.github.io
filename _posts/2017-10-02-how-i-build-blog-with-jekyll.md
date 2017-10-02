@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "记录电脑盲用Jekyll搭建博客过程"
-date: 2017-10-02 
+date: 
 description: 自建博客的过程
 ---
 最简单的方法就是fork别人的GitHub仓库，删除'_post'内容，直接更新。
