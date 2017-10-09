@@ -3,6 +3,7 @@ layout: post
 title: "范畴、归类和社会认同!"
 date: 2017-04-06 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+Tag： [生活中的科学]
 ---
 # 范畴、归类、自我认同与社会认同 
 人类强大的认知偏差，让人们即使随机分组也会模糊本组内差异，扩大与他组的差异。
