@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Social Identity Theory 社会认同论 & Henri Tajfel "
+title: " 社会认同论 "
 date: 2017-10-10 00:20:00 +0100
 description: 认知科学在生活中案例
 tags: [生活中的科学]
