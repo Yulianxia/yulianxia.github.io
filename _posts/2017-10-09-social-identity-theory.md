@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: "Social Identity Theory 社会认同论 & Henri Tajfel "
+date: 2017-10-10 00:20:00 +0100
+description: 认知科学在生活中案例
+tags: [生活中的科学]
+---
 人类强大的认知偏差，让人们即使随机分组也会模糊本组内差异，扩大与他组的差异。
 这样的例子比比皆是.
 同行业大公司与大公司之间互为竞争关系，员工提及彼此，多有不屑。无论人事、财务、运营任何部门的人，作为一个组织内成员对另一个组织的时候，态度是一样的。
@@ -11,25 +17,31 @@
 理解这些后，再读教养的迷思，觉得很有意思。我们现在的行为和数万年前部落里的原始人并无太大分别。
 《教养的迷思》读书笔记容后再写   
 
-家族相似性-范畴-社会认同论
+![Herni Tajfel](https://upload.wikimedia.org/wikipedia/commons/2/28/Henri_Tajfel.jpg) 
+[Henri Tajfel](https://en.wikipedia.org/wiki/Henri_Tajfel) #18 
+[Google scholar](https://scholar.google.com/scholar?as_allsubj=all&as_sauthors=%22Tajfel%2C+Henri%22&as_q=)
+Henri Tajfel
+Henri Tajfel (formerly Hersz Mordche) (22 June 1919 in Włocławek, Poland – 3 May 1982 in Oxford, United Kingdom) was a Polish social psychologist, best known for his pioneering work on the cognitive aspects of prejudice and social identity theory, as well as being one of the founders of the European Association of Experimental Social Psychology.[1]
 
-这几个名词的关系还没弄明白。
-1. 家族相似性：来自维特根斯坦，20世界天才的哲学家、数学家、建筑师……
-1951年《哲学研究》，第一章即：家族相似性。维特根斯坦发现游戏的目的有：娱乐、竞争，有的需要技巧，有的靠运气。虽然没有一个或几个特点是所有游戏共有的，但这些游戏成员以各种相似点交织成一个网络系统。有时是总体上相似，有时是细节上相似。维特根斯坦将这种相似性，命名为”家族相似性“。（网络思维原理。属于21世纪的思维。）
-2. 范畴：似乎包含概念较广。包括：基本层次范畴、上／下位层次范畴、原型范畴论等。按我浅薄理解，范畴的概念似乎与“群体”有重合
-3. 社会认同论:[Henri Tajfel](https://en.wikipedia.org/wiki/Henri_Tajfel)。 亨利泰费尔，波兰裔英籍心理学家，欧洲社会心理学创始人。他在范畴论的基础上提出了社会认同论。其中相关名词有：最简群体范式、社会认同论、自我认同论。
+亨利泰费尔，犹太人（曾名：Hersz Mordche波兰语名）1919年6月22日生于波兰Włocławek，1982年5月3日卒于英国牛津。他是一个波兰的社会心理学家，闻名于开创性的提出了“偏见的认知方面”和“社会认同论”。同样他也是“欧洲社会心理学协会”的创始人之一。
 
-注：本文是学习范畴、社会认同论以及听说维特根斯坦和他的家族相似性后的一点思考，并未理清其中脉络，因此也不能完全说清楚。
-只是试图在重复和例证中变的越来越清晰，越来越接近真理。
+**Intergroup relations**
+Having moved to Bristol University, Tajfel began his work on intergroup relations and conducted the renowned minimal groups experiments. In these studies,[9][10] test subjects were divided arbitrarily into two groups, based on a trivial and almost completely irrelevant basis. Participants did not know other members of the group, did not even know who they were, and had no reason to expect that they would interact with them in the future. Still, members of both groups allocated resources in such a way that showed favouritism for members of their own group in a way that maximized their own group's outcomes in comparison to the alternate group, even at the expense of maximum gains for their own group.[11] Even "on the basis of a coin toss...simple categorization into groups seems to be sufficient reason for people to dispense valued rewards in ways that favor in-group members over those who are 'different'".[12][13]
+转到布里斯托大学后，泰费尔进行了著名的小组实验，测试组根据一个几乎不相关的依据，对被试进行了分组。被试不认识也完全不了解本组的其他成员，也没有理由期待未来会有任何互动。仍然，两个组的成员在重新分配资源时都显示出了对本组的偏爱。他们尽量使本组的利益最大化超过另一组，哪怕是以本组最大收益为代价。
+即使“在硬币抛掷的基础上，简单的分类似乎也是充分的理由让人们以有利于团体成员的方式分配有价值的奖励，而不是那些”不同“的人”。
+
+**Social identity theory**
+Subsequently, Tajfel and his student John Turner developed the theory of social identity.[14] They proposed that people have an inbuilt tendency to categorize themselves into one or more "ingroups", building a part of their identity on the basis of membership of that group and enforcing boundaries with other groups.
+随后，泰费尔和他的学生约翰特纳提出了社会认同论。他们提出，人们有一个内在倾向将自己分到一个或多个群体内，在这个组织的成员关系上构建自己的身份，并强化与其他组的界限。
+
+Social identity theory suggests that people identify with groups in such a way as to maximize positive distinctiveness. Groups offer both identity (they tell us who we are) and self-esteem (they make us feel good about ourselves). The theory of social identity has had a very substantial impact on many areas of social psychology, including group dynamics, intergroup relations, prejudice and stereotyping, and organizational psychology.
+
+社会认同论认为，人们认同、关联组织的方式最大化了积极的独特性。团体提供身份（他们告诉我们我们是谁）和自尊（他们使我们对自己感觉良好）。社会认同理论对社会心理学的许多领域产生了非常大的影响，包括群体动态，群体间关系，偏见和定型观念以及组织心理学。
+
 
 Changelog     
 20171010 creat
+20171011 remove “家族相似性”内容。添加泰费尔社会认同论维基百科信息。
 
 
----
-layout: post
-title: "范畴、归类、社会认同 "
-date: 2017-10-10 00:20:00 +0100
-description: 认知科学在生活中案例
-tags: [生活中的科学]
----
+
