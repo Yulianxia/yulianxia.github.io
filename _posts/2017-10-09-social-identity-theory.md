@@ -19,7 +19,7 @@ tags: [生活中的科学]
 
 ![Herni Tajfel](https://upload.wikimedia.org/wikipedia/commons/2/28/Henri_Tajfel.jpg) 
 [Henri Tajfel](https://en.wikipedia.org/wiki/Henri_Tajfel) #18 
-[Google scholar](https://scholar.google.com/scholar?as_allsubj=all&as_sauthors=%22Tajfel%2C+Henri%22&as_q=)
+[Google scholar](https://scholar.google.com/scholar?as_allsubj=all&as_sauthors=%22Tajfel%2C+Henri%22&as_q=)     
 Henri Tajfel
 Henri Tajfel (formerly Hersz Mordche) (22 June 1919 in Włocławek, Poland – 3 May 1982 in Oxford, United Kingdom) was a Polish social psychologist, best known for his pioneering work on the cognitive aspects of prejudice and social identity theory, as well as being one of the founders of the European Association of Experimental Social Psychology.[1]
 
@@ -34,8 +34,8 @@ Henri Tajfel (formerly Hersz Mordche) (22 June 1919 in Włocławek, Poland – 3
 社会认同论认为，人们认同、关联组织的方式最大化了积极的独特性。团体提供身份（他们告诉我们我们是谁）和自尊（他们使我们对自己感觉良好）。社会认同理论对社会心理学的许多领域产生了非常大的影响，包括群体动态，群体间关系，偏见和定型观念以及组织心理学。
 摘自维基百科
 
-Changelog     
-20171010 creat
+Changelog       
+20171010 creat    
 20171011 remove “家族相似性”内容。添加泰费尔社会认同论维基百科信息。
 
 
