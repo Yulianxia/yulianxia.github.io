@@ -25,19 +25,14 @@ Henri Tajfel (formerly Hersz Mordche) (22 June 1919 in Włocławek, Poland – 3
 
 亨利泰费尔，犹太人（曾名：Hersz Mordche波兰语名）1919年6月22日生于波兰Włocławek，1982年5月3日卒于英国牛津。他是一个波兰的社会心理学家，闻名于开创性的提出了“偏见的认知方面”和“社会认同论”。同样他也是“欧洲社会心理学协会”的创始人之一。
 
-**Intergroup relations**
-Having moved to Bristol University, Tajfel began his work on intergroup relations and conducted the renowned minimal groups experiments. In these studies,[9][10] test subjects were divided arbitrarily into two groups, based on a trivial and almost completely irrelevant basis. Participants did not know other members of the group, did not even know who they were, and had no reason to expect that they would interact with them in the future. Still, members of both groups allocated resources in such a way that showed favouritism for members of their own group in a way that maximized their own group's outcomes in comparison to the alternate group, even at the expense of maximum gains for their own group.[11] Even "on the basis of a coin toss...simple categorization into groups seems to be sufficient reason for people to dispense valued rewards in ways that favor in-group members over those who are 'different'".[12][13]
+组织内部关系
 转到布里斯托大学后，泰费尔进行了著名的小组实验，测试组根据一个几乎不相关的依据，对被试进行了分组。被试不认识也完全不了解本组的其他成员，也没有理由期待未来会有任何互动。仍然，两个组的成员在重新分配资源时都显示出了对本组的偏爱。他们尽量使本组的利益最大化超过另一组，哪怕是以本组最大收益为代价。
 即使“在硬币抛掷的基础上，简单的分类似乎也是充分的理由让人们以有利于团体成员的方式分配有价值的奖励，而不是那些”不同“的人”。
 
-**Social identity theory**
-Subsequently, Tajfel and his student John Turner developed the theory of social identity.[14] They proposed that people have an inbuilt tendency to categorize themselves into one or more "ingroups", building a part of their identity on the basis of membership of that group and enforcing boundaries with other groups.
-随后，泰费尔和他的学生约翰特纳提出了社会认同论。他们提出，人们有一个内在倾向将自己分到一个或多个群体内，在这个组织的成员关系上构建自己的身份，并强化与其他组的界限。
-
-Social identity theory suggests that people identify with groups in such a way as to maximize positive distinctiveness. Groups offer both identity (they tell us who we are) and self-esteem (they make us feel good about ourselves). The theory of social identity has had a very substantial impact on many areas of social psychology, including group dynamics, intergroup relations, prejudice and stereotyping, and organizational psychology.
+随后，泰费尔和他的学生约翰特纳提出了社会认同论。他们提出，人们有一个内在倾向将自己分到一个或多个群体内，在这个组织的成员关系上构建自己的身份，并强化与其他组的界限。    
 
 社会认同论认为，人们认同、关联组织的方式最大化了积极的独特性。团体提供身份（他们告诉我们我们是谁）和自尊（他们使我们对自己感觉良好）。社会认同理论对社会心理学的许多领域产生了非常大的影响，包括群体动态，群体间关系，偏见和定型观念以及组织心理学。
-
+摘自维基百科
 
 Changelog     
 20171010 creat
