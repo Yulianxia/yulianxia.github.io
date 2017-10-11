@@ -17,20 +17,20 @@ tags: [生活中的科学]
 理解这些后，再读教养的迷思，觉得很有意思。我们现在的行为和数万年前部落里的原始人并无太大分别。
 《教养的迷思》读书笔记容后再写   
 
-![Herni Tajfel](https://upload.wikimedia.org/wikipedia/commons/2/28/Henri_Tajfel.jpg) 
-[Henri Tajfel](https://en.wikipedia.org/wiki/Henri_Tajfel) #18 
+![Herni Tajfel](https://upload.wikimedia.org/wikipedia/commons/2/28/Henri_Tajfel.jpg)     
+[Henri Tajfel](https://en.wikipedia.org/wiki/Henri_Tajfel)  
 [Google scholar](https://scholar.google.com/scholar?as_allsubj=all&as_sauthors=%22Tajfel%2C+Henri%22&as_q=)     
-Henri Tajfel
-Henri Tajfel (formerly Hersz Mordche) (22 June 1919 in Włocławek, Poland – 3 May 1982 in Oxford, United Kingdom) was a Polish social psychologist, best known for his pioneering work on the cognitive aspects of prejudice and social identity theory, as well as being one of the founders of the European Association of Experimental Social Psychology.[1]
-
+ 
 亨利泰费尔，犹太人（曾名：Hersz Mordche波兰语名）1919年6月22日生于波兰Włocławek，1982年5月3日卒于英国牛津。他是一个波兰的社会心理学家，闻名于开创性的提出了“偏见的认知方面”和“社会认同论”。同样他也是“欧洲社会心理学协会”的创始人之一。
 
-组织内部关系
+泰费尔的研究
+
+组织内部关系     
 转到布里斯托大学后，泰费尔进行了著名的小组实验，测试组根据一个几乎不相关的依据，对被试进行了分组。被试不认识也完全不了解本组的其他成员，也没有理由期待未来会有任何互动。仍然，两个组的成员在重新分配资源时都显示出了对本组的偏爱。他们尽量使本组的利益最大化超过另一组，哪怕是以本组最大收益为代价。
 即使“在硬币抛掷的基础上，简单的分类似乎也是充分的理由让人们以有利于团体成员的方式分配有价值的奖励，而不是那些”不同“的人”。
 
+社会认同论     
 随后，泰费尔和他的学生约翰特纳提出了社会认同论。他们提出，人们有一个内在倾向将自己分到一个或多个群体内，在这个组织的成员关系上构建自己的身份，并强化与其他组的界限。    
-
 社会认同论认为，人们认同、关联组织的方式最大化了积极的独特性。团体提供身份（他们告诉我们我们是谁）和自尊（他们使我们对自己感觉良好）。社会认同理论对社会心理学的许多领域产生了非常大的影响，包括群体动态，群体间关系，偏见和定型观念以及组织心理学。
 摘自维基百科
 
