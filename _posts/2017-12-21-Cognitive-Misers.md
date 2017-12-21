@@ -3,7 +3,6 @@ layout: post
 title: " 认知吝啬鬼 "
 date: 2017-12-20 00:20:00 +0100
 description: 认知科学在生活中案例
-Category：
 tags: [生活中的科学]
 ---
 
