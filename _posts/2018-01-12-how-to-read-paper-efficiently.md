@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何阅读论文"
+title: "如何高效阅读论文"
 date: 2018-01-12 14:05:00 +0100
 description: study
 tags: [生活中的科学]
@@ -19,12 +19,12 @@ tags: [生活中的科学]
 8. Methods
 9. Reference
 
-许多人是按顺序从头到尾读一遍。这样读无疑是浪费时间。
+按顺序从头到尾读一遍无疑是浪费时间。
 
 可以把读论文分成两部分。
 
 
-### 第一调查    
+### 第一 调查    
 
 记住，在过程中无论何时何地让你失去兴趣，都可以停下来。
 调查的目的是发现论文是否负荷需求，如下3步：
@@ -75,3 +75,7 @@ The faintest writing is better than the best memory!
  参考资料  
  https://youtu.be/IeaD0ZaUJ3Y  
  https://youtu.be/t2K6mJkSWoA
+ 
+ 
+** Changelog **    
+20180112  create
