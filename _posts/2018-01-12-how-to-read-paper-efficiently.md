@@ -70,6 +70,6 @@ The faintest writing is better than the best memory!
  
  现在就开始学着看论文吧。
  
- 参考资料
- https://youtu.be/IeaD0ZaUJ3Y
+ 参考资料  
+ https://youtu.be/IeaD0ZaUJ3Y  
  https://youtu.be/t2K6mJkSWoA
