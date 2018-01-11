@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "如何阅读论文"
-date: 2018-01-12 15:05:00 +0100
+date: 2018-01-12 14:05:00 +0100
 description: study
 tags: [生活中的科学]
 --- 
@@ -62,20 +62,6 @@ tags: [生活中的科学]
 - 节省时间，下次知道哪些论文需要重读，哪些不用再看。
 - 帮助你厘清思路，了解所学。
 笔记最好写在笔记本或者系统化存储。你可以用一张卡片(cards)或者一套卡片（bunch of index cards)。方便你快速查找、记忆阅读过的内容。不建议在pdf或者打印出的论文上写笔记，不易查找翻看的笔记等于没记。
-提供一个笔记模版做参考，最适合自己的才是最好的，慢慢找到适合自己的笔记方式。
-
-|Template for reviewing Articles|           此处可以将表格加长加宽|
-| ---|---|---|
-| Article Title |       |
-| Author(s)  |      |
-| Journal |  |
-| Date |  |
-| Page |  |
-| Volume |  |
-| Issue |  |
-| URL |  |
-| Main concepts |  |
-| My critical response |  |
 
 
 The faintest writing is better than the best memory! 
@@ -84,6 +70,6 @@ The faintest writing is better than the best memory!
  
  现在就开始学着看论文吧。
  
- ' 参考资料
+ 参考资料
  https://youtu.be/IeaD0ZaUJ3Y
  https://youtu.be/t2K6mJkSWoA
