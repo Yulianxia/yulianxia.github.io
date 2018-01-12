@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "如何高效阅读论文"
-date: 2018-01-12 14:05:00 +0100
+date: 2018-01-11 14:05:00 +0100
 description: study
 tags: [生活中的科学]
 --- 
