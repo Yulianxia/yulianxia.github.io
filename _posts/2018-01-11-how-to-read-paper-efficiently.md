@@ -43,7 +43,7 @@ tags: [生活中的科学]
 
 经过调查，找到自己的兴趣就可以继续按步骤精读论文。
 1. Table & Figures 的部分。这部分帮助深入了解科学家的实验内容和结果。实际操作中，我个人觉得这个步骤可选，如果看不懂数据的也无从理解，跳到下一个步骤不影响阅读。
-2. Results & Discussion。这一部分是全文的精华。它显示了作者的发现、关键数据（通常在表格里）；清楚回答了前文提出的问题。解释了实验结果如何支持结论。专业读者需要注意的是：
+2. Results & Discussion。这一部分是全文的精华。它显示了作者的发现、关键数据（通常在表格里）；清楚回答了前文提出的问题。解释了实验结果如何支持结论。专业读者需要注意的是：     
   a.数据的收集是否回答了研究的问题？   
   b.数据是否支持结论？      
 换言之，读者通过阅读这一部分内容是否理解和相信作者的言论？ 
@@ -73,9 +73,9 @@ The faintest writing is better than the best memory!
  
  现在就开始学着看论文吧。
  
-    参考资料  
-    https://youtu.be/IeaD0ZaUJ3Y  
-    https://youtu.be/t2K6mJkSWoA
+参考资料  
+https://youtu.be/IeaD0ZaUJ3Y  
+https://youtu.be/t2K6mJkSWoA
  
  
 **Changelog**   
