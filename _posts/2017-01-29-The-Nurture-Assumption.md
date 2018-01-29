@@ -5,7 +5,7 @@ date: 2018-01-29 13:05:00 +0100
 tags: [读书笔记]
 ---
 
-作者：Judith Rich Harris
+作者：Judith Rich Harris  
 英文名：The Nurture Assumption : Why Children Turn Out the Way They Do
 
 > 本书引起我兴趣的是第五、六章节。这两章节解释了作者的结论“为什么父母的教养方式在养育孩子时作用不大”。
@@ -40,5 +40,5 @@ tags: [读书笔记]
 
 
 **Changelog**    
-20180129   creat
+20180129   create
 
