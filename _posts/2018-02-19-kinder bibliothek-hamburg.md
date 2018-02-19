@@ -20,22 +20,20 @@ tags: [生活]
 我最关心的是儿童图书馆（KiBi）。 Kibi在图书馆最深处，大致分为两个区域，一部分是大孩子（6岁以上）的区域，和成人区域的布置几乎相同，只有墙面背景是深红色的，靠窗位置格外多放了几张红色沙发。书的分类也比较多：科学、技术、分级阅读、犯罪、奇幻……还有一个书架专门放DVD。
 
 另一区域是小孩子的，我第一眼就喜欢上了这里，由衷羡慕德国的孩子们。书架是由铺在地上的盒子组成的，每个只有40厘米高，开口朝上。即使是刚会走路的孩子，也可以靠着翻找自己喜欢的书。四壁墙面画上了鲜艳有趣的图案，两个书架间还摆了张彩色座椅。站着的书架也有两排，不到一人高，方便大孩子取书。在墙角有一个两层的小舞台，孩子们脱了鞋在上面蹦蹦跳跳，或者坐在台阶上看书、玩桌游都很惬意。靠舞台旁边，是整整两架桌游。2岁孩子可以玩的比较少，4岁以后到成人都有很多选择。
-![IMG_1867](yulianxia.github.io/assets/img/IMG_1867.JPG)
-![IMG_1868](yulianxia.github.io/assets/img/IMG_1868.JPG)
-![IMG_1869](yulianxia.github.io/assets/img/IMG_1869.JPG)
-![IMG_1870](yulianxia.github.io/assets/img/IMG_1870.JPG)
-![IMG_1878](yulianxia.github.io/assets/img/IMG_1878.JPG)
+![IMG_1867](yulianxia.github.io/assets/img/IMG_1867.JPG)  
+![IMG_1868](yulianxia.github.io/assets/img/IMG_1868.JPG)   
+![IMG_1869](yulianxia.github.io/assets/img/IMG_1869.JPG)   
+![IMG_1870](yulianxia.github.io/assets/img/IMG_1870.JPG)  
+![IMG_1878](yulianxia.github.io/assets/img/IMG_1878.JPG)   
 
 
 
 在KIBI的中间有一排两面的架子，按字母顺序放着DVD、CD、有声书和wii游戏。高度在孩子的视线内，成人要弯腰。
-![IMG_1880](yulianxia.github.io/assets/img/IMG_1880.JPG)
-
-
-![IMG_1877](yulianxia.github.io/assets/img/IMG_1877.JPG)
+![IMG_1880](yulianxia.github.io/assets/img/IMG_1880.JPG)   
+![IMG_1877](yulianxia.github.io/assets/img/IMG_1877.JPG)   
 在靠窗的一面墙，有两台电脑。一台用来查询，一台用来借书。借书是无人操作，只需要刷卡后，将书的封面或背面放在指定区域白框里扫描，电脑就会显示出书的名字。所有扫描完成后，在屏幕上点“完成”。就会有一张清单从机器里吐出来。上面写着书名、借阅日期和归还日期。
 
-![IMG_1881](yulianxia.github.io/assets/img/IMG_1881.JPG)
+![IMG_1881](yulianxia.github.io/assets/img/IMG_1881.JPG)   
 书籍的借阅日期是一个月，CD和DVD的日期是一周。但是到期前会有邮件通知，如果需要延长，可以在网上登录电子图书馆，延长借阅期限。
 
 借书证号就是网上图书馆账户。凭借账户还能借阅电子书，查询许多信息。成人借书证可以借阅所有内容，每年20欧。儿童借书证只能借阅儿童读物，我毫不犹豫的办了成人借书证。
