@@ -2,7 +2,7 @@
 layout: post
 title: "在德国叫救护车"
 date: 2018-03-07 13:00:00 +0100
-tags: [生活，育儿]
+tags: [育儿]
 ---
 
 上周日（04 March 2018），小朋友高烧40度突发高温惊厥，惊厥停止后伴有尖锐的喉音呼啸，我们稍作考虑叫了救护车。
@@ -37,5 +37,7 @@ tags: [生活，育儿]
 在这种慌乱情形下我的德语真不如英语够用，如此贴心的的细节再次让我心头一暖。来不及道谢和道别，穿着橘色连身制服的急救医生就离开了。
 
 一切发生的太突然，家长难免慌乱。好在有专业的急救人员，不仅反应迅速、镇定控场，还特别体贴的照顾了病人家属的情绪。感谢所有专业人员尽职尽责的工作，让我们在意外到来时，能相对从容的面对。
-![Ambwagen](https://github.com/Yulianxia/yulianxia.github.io/blob/master/_posts/media/ambulanzwagen1.jpg)
+
+![ambulanzwagen1](media/15204287757486/ambulanzwagen1.jpg)
+
 
