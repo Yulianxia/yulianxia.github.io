@@ -4,8 +4,6 @@ title: "在德国叫救护车"
 date: 2018-03-07 13:00:00 +0100
 tags: [生活，育儿]
 ---
-
-![Ambulance](https://github.com/Yulianxia/yulianxia.github.io/blob/master/_posts/media/ambulanzwagen.jpg)
 上周日（04 March 2018），小朋友高烧40度突发高温惊厥，惊厥停止后伴有尖锐的喉音呼啸，我们稍作考虑叫了救护车。
 
 德国的紧急电话是112，电话接通后首先询问详细地址（where）、人员（who）、最后是情形（what）。 救护车赶到前，准备好医疗保险卡，穿着橘色制服的急救医生和其他工作人员抱着检测仪器很快赶到，镇定地询问了发病情况，检查了瞳孔，建议我们一个人跟车立刻去医院。
@@ -39,7 +37,7 @@ tags: [生活，育儿]
 
 一切发生的太突然，家长难免慌乱。好在有专业的急救人员，不仅反应迅速、镇定控场，还特别体贴的照顾了病人家属的情绪。感谢所有专业人员尽职尽责的工作，让我们在意外到来时，能相对从容的面对。
 
-![](https://github.com/Yulianxia/yulianxia.github.io/blob/master/_posts/media/ambulanzwagen1.jpg)
+![Ambulanzwagen](https://github.com/Yulianxia/yulianxia.github.io/blob/master/_posts/media/ambulanzwagen1.jpg)
 
 
 
