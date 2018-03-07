@@ -37,7 +37,7 @@ tags: [生活，育儿]
 
 一切发生的太突然，家长难免慌乱。好在有专业的急救人员，不仅反应迅速、镇定控场，还特别体贴的照顾了病人家属的情绪。感谢所有专业人员尽职尽责的工作，让我们在意外到来时，能相对从容的面对。
 
-![Ambulanzwagen](yulianxia.github.io/_posts/media/ambulanzwagen1.jpg)
+![Ambulanzwagen](https://github.com/Yulianxia/yulianxia.github.io/blob/master/_posts/media/ambulanzwagen1.jpg)
 
 
 
