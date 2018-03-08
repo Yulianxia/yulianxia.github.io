@@ -3,7 +3,7 @@ layout: post
 title: "在德国叫救护车"
 date: 2018-03-07 13:00:00 +0100
 tags: [育儿,生活]
-image: ambulanzwagen1.jpg
+img: ambulanzwagen1.jpg
 ---
 
 周日（04 March 2018），小朋友高烧40度突发高温惊厥，惊厥停止后伴有尖锐的喉音呼啸，我们稍作考虑叫了救护车。
