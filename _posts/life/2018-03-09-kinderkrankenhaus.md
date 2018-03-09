@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "在德国住儿童医院"
-date: 2018-03-07 13:00:00 +0100
+date: 2018-03-09 13:00:00 +0100
 tags: [育儿,生活]
-img: 
+img: krankenhaus.jpg
 ---
 
 ## 惊厥发作
