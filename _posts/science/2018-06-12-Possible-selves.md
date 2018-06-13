@@ -104,7 +104,7 @@ specific, individually significant hopes, fears, and fantasies.
 
 
 以写作为例做个对比，清楚的看到从外在动机到内在动机转变的过程。也让我更加热爱写作，而不是痛苦的为名利坚持。
-![](https://user-images.githubusercontent.com/24825916/41290953-a72e8742-6e4e-11e8-8341-8eae5811f044.png)
+![](https://user-images.githubusercontent.com/24825916/41330335-2fab8582-6ed3-11e8-955e-8c8c8aef792b.png)
 
 
 
