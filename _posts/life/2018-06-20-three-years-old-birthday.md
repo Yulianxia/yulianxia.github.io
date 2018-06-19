@@ -3,7 +3,7 @@ layout: post
 title: "写在小朋友的三岁之际"
 date: 2018-06-20 00:00:00 +0100
 tags: [育儿,生活]
-img: 
+img: 3yrsboy.jpeg
 ---
 富贵儿，我的宝贝！
 
