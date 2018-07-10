@@ -3,6 +3,7 @@ layout: post
 title: " 谈谈情绪--真相、理解、接纳 "
 date: 2018-07-10 00:20:00 +0100
 description: 认知科学在生活中案例
+img: feeling.jpg
 tags: [育儿，生活]
 ---
 
