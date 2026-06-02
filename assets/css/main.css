@@ -183,6 +183,13 @@ img {
   color: #53616d;
 }
 
+.post-excerpt {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
 .read-link,
 .post-card h2 a {
   color: var(--accent-dark);
