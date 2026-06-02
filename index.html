@@ -20,7 +20,7 @@ layout: main
         <article class="post-card{% if forloop.first %} featured-post{% endif %}">
           <p class="post-meta">{{ post.date | date: '%Y.%m.%d' }}{% if post.tags %} · {{ post.tags | first }}{% endif %}</p>
           <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-          <p>{{ post.content | strip_html | truncatewords: 36 }}</p>
+        <p class="post-excerpt">{{ post.content | strip_html | truncate: 72 }}</p>
           <a class="read-link" href="{{ post.url | prepend: site.baseurl }}">阅读全文</a>
         </article>
       {% endfor %}
