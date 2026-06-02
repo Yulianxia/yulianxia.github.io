@@ -1,30 +1,52 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Yulian's Blog
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+这是我的个人博客，记录生活、阅读、科学、技术和故事。
 
-## Demo
+访问地址：
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+https://yulianxia.github.io
 
-The main page would look like this:
+## 内容结构
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+- `生活记录`：生活经历、家庭、城市和日常观察
+- `日有所思`：阅读、复盘和阶段性思考
+- `科学和技术`：科学笔记、技术记录和学习过程
+- `故事`：虚构写作和短篇故事
 
-The post page would look like this:
+## 如何更新文章
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+文章保存在 `_posts` 文件夹里。
 
-## Features
+新增文章时，把 Markdown 文件放进对应分类文件夹：
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
+- `_posts/life/`
+- `_posts/reading/`
+- `_posts/science/`
+- `_posts/tech/`
+- `_posts/story/`
 
-## Installation:
+文件名格式：
 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+```text
+YYYY-MM-DD-title.md
+```
 
-### License
+文章开头需要保留这样的信息：
 
-GNU General Public License v3.0
+```yaml
+---
+layout: post
+title: "文章标题"
+date: 2026-06-02 10:00:00 +0100
+description: 简短说明
+tags: [标签1, 标签2]
+---
+```
+
+## 页面
+
+- 首页：`index.html`
+- 分类页：`categories.html`
+- 标签页：`tags.html`
+- 文章模板：`_layouts/post.html`
+- 主样式：`assets/css/main.css`
