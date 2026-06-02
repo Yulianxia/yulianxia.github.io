@@ -1,17 +1,56 @@
 ---
 layout: main
 ---
-{% for post in site.posts %}
-<article class="post">
-  {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
-  {% else %}
-  {% endif %}
-  <div class="post-content">
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
-    <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
-  </div>
-</article>
-{% endfor %}
+
+<main>
+  <section class="hero" aria-label="博客介绍">
+    <img class="hero-image" src="{{ '/assets/img/blog-hero.png' | prepend: site.baseurl }}" alt="窗边书桌上的笔记本、电脑和书">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <p class="eyebrow">Yulian's Blog</p>
+      <h1>把学习、写作和生活观察整理成可以反复回看的笔记。</h1>
+      <p class="hero-summary">{{ site.about-author }}</p>
+      <a class="primary-link" href="#posts">阅读最新文章</a>
+    </div>
+  </section>
+
+  <section class="content-grid" id="posts">
+    <div class="post-list" aria-label="文章列表">
+      {% for post in site.posts %}
+        <article class="post-card{% if forloop.first %} featured-post{% endif %}">
+          <p class="post-meta">{{ post.date | date: '%Y.%m.%d' }}{% if post.tags %} · {{ post.tags | first }}{% endif %}</p>
+          <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+          <p>{{ post.content | strip_html | truncatewords: 36 }}</p>
+          <a class="read-link" href="{{ post.url | prepend: site.baseurl }}">阅读全文</a>
+        </article>
+      {% endfor %}
+    </div>
+
+    <aside class="sidebar">
+      <section class="side-panel">
+        <p class="section-label">关于</p>
+        <h2>{{ site.author }}</h2>
+        <p>{{ site.about-author }}</p>
+      </section>
+
+      <section class="side-panel">
+        <p class="section-label">主题</p>
+        <div class="topic-list">
+          {% assign sorted_tags = site.tags | sort %}
+          {% for tag in sorted_tags limit: 12 %}
+            <a href="{{ site.baseurl }}/tags/#{{ tag[0] | cgi_escape }}">{{ tag[0] }}</a>
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="side-panel">
+        <p class="section-label">最近更新</p>
+        <ol class="recent-list">
+          {% for post in site.posts limit: 5 %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ol>
+      </section>
+    </aside>
+  </section>
+</main>
