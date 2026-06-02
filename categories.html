@@ -1,0 +1,72 @@
+---
+layout: main
+title: 分类
+permalink: /categories/
+---
+
+<main class="tags-page">
+  <section class="page-heading">
+    <p class="eyebrow">Categories</p>
+    <h1>按分类浏览文章</h1>
+    <p>分类按照文章所在文件夹整理，保留旧文章结构。</p>
+  </section>
+
+  <section class="tag-index">
+    <div class="topic-list large">
+      <a href="#life">生活记录</a>
+      <a href="#thinking">日有所思</a>
+      <a href="#science-tech">科学和技术</a>
+      <a href="#story">故事</a>
+    </div>
+  </section>
+
+  <section class="tag-groups">
+    <section class="tag-group" id="life">
+      <h2>生活记录</h2>
+      {% for post in site.posts %}
+        {% if post.path contains '_posts/life/' %}
+          <article class="tag-post">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <time>{{ post.date | date: '%Y.%m.%d' }}</time>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </section>
+
+    <section class="tag-group" id="thinking">
+      <h2>日有所思</h2>
+      {% for post in site.posts %}
+        {% if post.path contains '_posts/reading/' %}
+          <article class="tag-post">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <time>{{ post.date | date: '%Y.%m.%d' }}</time>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </section>
+
+    <section class="tag-group" id="science-tech">
+      <h2>科学和技术</h2>
+      {% for post in site.posts %}
+        {% if post.path contains '_posts/science/' or post.path contains '_posts/tech/' %}
+          <article class="tag-post">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <time>{{ post.date | date: '%Y.%m.%d' }}</time>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </section>
+
+    <section class="tag-group" id="story">
+      <h2>故事</h2>
+      {% for post in site.posts %}
+        {% if post.path contains '_posts/story/' %}
+          <article class="tag-post">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <time>{{ post.date | date: '%Y.%m.%d' }}</time>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </section>
+  </section>
+</main>

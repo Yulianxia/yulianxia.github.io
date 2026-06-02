@@ -18,9 +18,9 @@ layout: main
     <div class="post-list" aria-label="文章列表">
       {% for post in site.posts %}
         <article class="post-card{% if forloop.first %} featured-post{% endif %}">
-          <p class="post-meta">{{ post.date | date: '%Y.%m.%d' }}{% if post.tags %} · {{ post.tags | first }}{% endif %}</p>
+          <p class="post-meta">{{ post.date | date: '%Y.%m.%d' }}</p>
           <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="post-excerpt">{{ post.content | strip_html | truncate: 72 }}</p>
+          <p class="post-excerpt">{{ post.content | strip_html | truncate: 72 }}</p>
           <a class="read-link" href="{{ post.url | prepend: site.baseurl }}">阅读全文</a>
         </article>
       {% endfor %}
@@ -34,10 +34,20 @@ layout: main
       </section>
 
       <section class="side-panel">
-        <p class="section-label">主题</p>
+        <p class="section-label">分类</p>
+        <div class="topic-list">
+          <a href="{{ site.baseurl }}/categories/#life">生活记录</a>
+          <a href="{{ site.baseurl }}/categories/#thinking">日有所思</a>
+          <a href="{{ site.baseurl }}/categories/#science-tech">科学和技术</a>
+          <a href="{{ site.baseurl }}/categories/#story">故事</a>
+        </div>
+      </section>
+
+      <section class="side-panel">
+        <p class="section-label">标签</p>
         <div class="topic-list">
           {% assign sorted_tags = site.tags | sort %}
-          {% for tag in sorted_tags limit: 12 %}
+          {% for tag in sorted_tags limit: 10 %}
             <a href="{{ site.baseurl }}/tags/#{{ tag[0] | cgi_escape }}">{{ tag[0] }}</a>
           {% endfor %}
         </div>
